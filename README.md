@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>Operating Systems</h2>
 <h2>Basic Linux Commands</h2>
 <h2>Problem Solving with C</h2>
 <br>
